@@ -1,6 +1,6 @@
 {
   "name": "yunseong-modal-example",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "modal 예제를 배포하는 테스트",
   "main": "index.js",
   "scripts": {
